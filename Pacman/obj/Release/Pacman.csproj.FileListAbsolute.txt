@@ -1,0 +1,9 @@
+D:\WORK\home\Programming\Projects\Pacman\Pacman\bin\Release\Pacman.exe.config
+D:\WORK\home\Programming\Projects\Pacman\Pacman\bin\Release\Pacman.exe
+D:\WORK\home\Programming\Projects\Pacman\Pacman\bin\Release\Pacman.pdb
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Release\Pacman.ControllerMainForm.resources
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Release\Pacman.Properties.Resources.resources
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Release\Pacman.View.resources
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Release\Pacman.csproj.GenerateResource.Cache
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Release\Pacman.exe
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Release\Pacman.pdb

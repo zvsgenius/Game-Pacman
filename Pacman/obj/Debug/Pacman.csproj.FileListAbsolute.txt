@@ -1,0 +1,10 @@
+D:\WORK\home\Programming\Projects\Pacman\Pacman\bin\Debug\Pacman.exe.config
+D:\WORK\home\Programming\Projects\Pacman\Pacman\bin\Debug\Pacman.exe
+D:\WORK\home\Programming\Projects\Pacman\Pacman\bin\Debug\Pacman.pdb
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Debug\Pacman.ControllerMainForm.resources
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Debug\Pacman.View.resources
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.Cache
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Debug\Pacman.exe
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Debug\Pacman.pdb
+D:\WORK\home\Programming\Projects\Pacman\Pacman\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
